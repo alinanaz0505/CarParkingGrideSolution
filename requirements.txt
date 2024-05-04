@@ -1,0 +1,4 @@
+-i https://pypi.org/simple
+cvzone==1.6.1; python_version >= '3.6'
+numpy==1.26.4; python_version >= '3.10'
+opencv-python==4.9.0.80; python_version >= '3.6'
